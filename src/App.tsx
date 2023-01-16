@@ -5,8 +5,7 @@ import './App.css';
 function App() {
   return (
     <>
-      hello world!
-        1
+        <img src={logo} alt={'logo...'}/>
     </>
   );
 }
